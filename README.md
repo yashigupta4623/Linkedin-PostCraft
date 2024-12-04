@@ -1,9 +1,9 @@
 # LinkedIn-Content-Genie
 
 **LinkedIn-Content-Genie** is a tool designed to analyze past LinkedIn posts of influencers and assist them in generating new content that aligns with their established writing style.
-Live at : https://linkedin-postcraft-yashig406.streamlit.app/
+**Live at : https://linkedin-postcraft-yashig406.streamlit.app/
 <img src="resources/tool.png"/>
-
+<img src="resources/result.png"/>
 
 ---
 
